@@ -62,9 +62,11 @@ The project contributes to understanding the key factors influencing U.S. home p
 
 The project involves understanding and predicting patterns rather than just describing historical trends or providing actionable recommendations.
 
-![image](https://github.com/FarhanaTeli/Factors-Influencing-US-Home-Prices/assets/98101319/e30e847b-714d-47d7-8268-cda5b0e3d9af)
+![image]![image](https://github.com/user-attachments/assets/b6230199-33a9-40fc-9536-6358b7e59580)
 
-![image](https://github.com/FarhanaTeli/Factors-Influencing-US-Home-Prices/assets/98101319/8a2b5e68-3b93-4265-93bd-715de598c0e0)
+
+![image]![283891310-8a2b5e68-3b93-4265-93bd-715de598c0e0](https://github.com/user-attachments/assets/129b169c-a723-4f89-9815-bde61f3fbd18)
+
 
 
 # Data Availability
