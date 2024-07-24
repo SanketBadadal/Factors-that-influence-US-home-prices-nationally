@@ -118,11 +118,3 @@ Housing Subsidies (Federal) - https://fred.stlouisfed.org/series/L312051A027NBEA
 Total households - https://fred.stlouisfed.org/series/TTLHH
 
 
-**Article referred** -
-
-https://www.investopedia.com/articles/mortgages-real-estate/10/understanding-case-shiller-index.asp
-
-
-**Research Paper referred** -
-
-https://www.atlantis-press.com/article/25841966.pdf
