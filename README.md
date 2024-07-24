@@ -1,5 +1,4 @@
 # Factors-that-influence-US-home-prices-nationally
-# US Housing Trends Analyzer and Influence Explorer
 
 **Objective:**
 
